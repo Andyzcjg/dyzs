@@ -52,7 +52,7 @@ addEventListener(
 VLESS演示链接
 自行修改其中 自选IP和你的heroku地址。不再提供演示，发现我提供了，就全用我的演示地址了，一天就能几百万连接，给账号都干趴下，自建很简单。
 ```
-vless://10974d1a-cbd6-4b6f-db1d-38d78b3fb109@你的自选ip:443?encryption=none&flow=xtls-rprx-direct&security=tls&sni=你的HEROKU地址或CF反代地址&type=ws&host=你的HEROKU地址或CF反代地址#heroku
+vless://9a9e1b88-de01-11ec-9d64-0242ac120002@你的自选ip:443?encryption=none&security=tls&sni=你的HEROKU地址或CF反代地址&type=ws&host=你的HEROKU地址或CF反代地址#heroku
 
 ```
 详细教程
